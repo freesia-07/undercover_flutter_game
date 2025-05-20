@@ -44,9 +44,9 @@ flutter run
 ```
 ## Screenshots
 
-![setup](lib/screenshots/setup_page.png)
-![setup](lib/screenshots/Role-assignment.png)
-![setup](lib/screenshots/Clue_page.png)
-![setup](lib/screenshots/Vote_page.png)
-![setup](lib/screenshots/result_page.png)
+![setup](lib/Screenshots/setup_page.png)
+![setup](lib/Screenshots/Role-assignment.png)
+![setup](lib/Screenshots/Clue_page.png)
+![setup](lib/Screenshots/Vote_page.png)
+![setup](lib/Screenshots/result_page.png)
 
