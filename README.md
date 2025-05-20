@@ -19,6 +19,16 @@ Players are assigned hidden roles and secret words. Citizens try to find the Und
 
 ##  Getting Started
 
+All the folders neccessary for the project can be find in lib folder and the folder looks like:
+
+```lib/
+├── main.dart              # App entry point
+├── models/                # Player model
+├── services/              # Game logic and state (GameService)
+├── screens/               # UI: Setup, Role, Clue+Vote, Result
+├── utils/                 # Word pair generator
+└── screenshots            # screenshots of each page
+```
 ###  Prerequisites
 
 - Flutter SDK (3.x preferred)
