@@ -41,4 +41,12 @@ Clone the repo and run:
 ```bash
 flutter pub get
 flutter run
+```
+## Screenshots
+
+![setup](lib/screenshots/setup_page.png)
+![setup](lib/screenshots/Role-assignment.png)
+![setup](lib/screenshots/Clue_page.png)
+![setup](lib/screenshots/Vote_page.png)
+![setup](lib/screenshots/result_page.png)
 
